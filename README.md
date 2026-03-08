@@ -6,33 +6,16 @@ A comprehensive reference guide for **defensive security** professionals and res
 
 ---
 
-## 📁 Repository Structure
-
-```
-cybersec-commands/
-├── README.md               ← You are here
-├── CONTRIBUTING.md         ← How to contribute
-└── commands/
-    ├── nmap.md             ← Network scanning & enumeration
-    ├── netstat.md          ← Network connections & statistics
-    ├── tcpdump.md          ← Packet capture & analysis
-    ├── wireshark.md        ← GUI packet analysis
-    ├── firewall.md         ← iptables / ufw / Windows Firewall
-    └── misc.md             ← Other essential tools (curl, dig, ss, etc.)
-```
-
----
-
 ## 🚀 Quick Reference
 
 | Category              | Tool/Command     | File |
 |-----------------------|------------------|------|
-| Network Scanning      | `nmap`           | [nmap.md](commands/nmap.md) |
-| Connection Monitoring | `netstat` / `ss` | [netstat.md](commands/netstat.md) |
-| Packet Capture        | `tcpdump`        | [tcpdump.md](commands/tcpdump.md) |
-| Packet Analysis (GUI) | `Wireshark`      | [wireshark.md](commands/wireshark.md) |
-| Firewall Management   | `iptables`/`ufw` | [firewall.md](commands/firewall.md) |
-| Misc Tools            | `curl`, `dig`... | [misc.md](commands/misc.md) |
+| Network Scanning      | `nmap`           | [nmap.md](nmap.md) |
+| Connection Monitoring | `netstat` / `ss` | [netstat.md](netstat.md) |
+| Packet Capture        | `tcpdump`        | [tcpdump.md](tcpdump.md) |
+| Packet Analysis (GUI) | `Wireshark`      | [wireshark.md](wireshark.md) |
+| Firewall Management   | `iptables`/`ufw` | [firewall.md](firewall.md) |
+| Vulnerability scanner | `nuclei`         | [nuclei.md](nuclie.md) |
 
 ---
 
