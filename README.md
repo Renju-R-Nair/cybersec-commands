@@ -8,14 +8,15 @@ A comprehensive reference guide for **defensive security** professionals and res
 
 ## 🚀 Quick Reference
 
-| Category              | Tool/Command     | File |
-|-----------------------|------------------|------|
-| Network Scanning      | `nmap`           | [nmap.md](nmap.md) |
-| Connection Monitoring | `netstat` / `ss` | [netstat.md](netstat.md) |
-| Packet Capture        | `tcpdump`        | [tcpdump.md](tcpdump.md) |
-| Packet Analysis (GUI) | `Wireshark`      | [wireshark.md](wireshark.md) |
-| Firewall Management   | `iptables`/`ufw` | [firewall.md](firewall.md) |
-| Vulnerability scanner | `nuclei`         | [nuclei.md](nuclie.md) |
+| Tool/Command     | File |
+|------------------|------|
+| `nmap`           | [nmap.md](nmap.md) |
+| `netstat` / `ss` | [netstat.md](netstat.md) |
+| `tcpdump`        | [tcpdump.md](tcpdump.md) |
+| `Wireshark`      | [wireshark.md](wireshark.md) |
+| `iptables`/`ufw` | [firewall.md](firewall.md) |
+| `nuclei`         | [nuclei.md](nuclie.md) |
+| `subfinder`      | [subfinder.md](subfinder.md) |
 
 ---
 
