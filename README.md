@@ -17,6 +17,7 @@ A comprehensive reference guide for **defensive security** professionals and res
 | `iptables`/`ufw` | [firewall.md](firewall.md) |
 | `nuclei`         | [nuclei.md](nuclie.md) |
 | `subfinder`      | [subfinder.md](subfinder.md) |
+| `httpx`          | [httpx.md](httpx.md) |
 
 ---
 
